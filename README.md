@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abdulmoiz-Ahmer
-- 👀 I’m interested in Blockchain, Aws, Mern Stack, React Native, Three.js, Nextjs, Nestjs.
+- 👀 I’m interested in Blockchain, Aws, Mern Stack, React Native, Three.js, Nextjs, Nestjs, AI, Chatbots.
 - 🌱 I’m currently learning Gatsby & aws.
 
 <!---
