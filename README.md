@@ -1,9 +1,13 @@
 
 <div align="center">
-   <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm <a href="https://dazzling-dijkstra-8e10ca.netlify.app">Abdulmoiz Ahmer</a> 
+  <img width="500"  src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" >  
+   
+   <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm <a href="https://dazzling-dijkstra-8e10ca.netlify.app">Abdulmoiz Ahmer</a><img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="30px"  /> 
   </h1>
+   
  <p><em>Software Engineer at <a href="https://www.ciklum.com/">ciklum.com</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>  
+
   
 [![Linkedin Badge](https://img.shields.io/badge/-Abdulmoiz%20Ahmer-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulmoiz-ahmer-821a19115/)](https://www.linkedin.com/in/abdulmoiz-ahmer-821a19115/)
 [![Website Badge](https://img.shields.io/badge/-abdulmoiz.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://dazzling-dijkstra-8e10ca.netlify.app/)](https://dazzling-dijkstra-8e10ca.netlify.app)
@@ -11,10 +15,7 @@
 [![Gmail Badge](https://img.shields.io/badge/abdulmoiz-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:abdulmoizahmer1996@gmail.com)](mailto:abdulmoizahmer1996@gmail.com)
 </div>
 
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
-<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" align=right /></a>
-
+   ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little bit about me...  
 ```
@@ -31,6 +32,8 @@ class Abdulmoiz extends Person{
     return [
      "Javascript",
      "Typescript",
+     "Rust",
+     "Solidity",
      "ReactJs",
      "Tailwindcss",
      "ExpressJs",
