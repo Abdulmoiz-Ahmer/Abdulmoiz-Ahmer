@@ -62,7 +62,7 @@ class Abdulmoiz extends Person{
 <br />
 
 
-## 🔍  Where to find me
+## 🔍 Where to find me
 
 [![StackOverFlow Badge](https://img.shields.io/badge/-Abdulmoiz%20Ahmer-lightgrey?style=flat&logo=stackoverflow&logoColor=white&link=https://www.linkedin.com/in/abdulmoiz-ahmer-821a19115/)](https://www.linkedin.com/in/abdulmoiz-ahmer-821a19115/)
 [![Linkedin Badge](https://img.shields.io/badge/-Abdulmoiz%20Ahmer-blue?style=?style=flat&?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulmoiz-ahmer-821a19115/)](https://www.linkedin.com/in/abdulmoiz-ahmer-821a19115/)
@@ -72,7 +72,7 @@ class Abdulmoiz extends Person{
 
 
 
-## 🔍  Random developer joke
+## 😂 Random developer joke
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
