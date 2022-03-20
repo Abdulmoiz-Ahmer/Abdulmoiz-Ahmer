@@ -62,6 +62,13 @@ class Abdulmoiz extends Person{
 <br />
 
 
+## 📝 Stats
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+</div>
+
+<br />
+
 ## 🔍 Where to find me
 
 [![StackOverFlow Badge](https://img.shields.io/badge/-Abdulmoiz%20Ahmer-lightgrey?style=flat&logo=stackoverflow&logoColor=white&link=https://www.linkedin.com/in/abdulmoiz-ahmer-821a19115/)](https://www.linkedin.com/in/abdulmoiz-ahmer-821a19115/)
@@ -70,7 +77,7 @@ class Abdulmoiz extends Person{
 [![Twitter Badge](https://img.shields.io/badge/-@abdulmoiz-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SinProgramming)](https://twitter.com/SinProgramming)
 [![Gmail Badge](https://img.shields.io/badge/abdulmoiz-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:abdulmoizahmer1996@gmail.com)](mailto:abdulmoizahmer1996@gmail.com)
 
-
+<br />
 
 
 
@@ -78,6 +85,7 @@ class Abdulmoiz extends Person{
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
+<br />
 
 <h2 align="center">🤝 Support</h2>
 
@@ -85,7 +93,7 @@ class Abdulmoiz extends Person{
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-<p align="center">Made with ❤️ in Pakistan</p>
+<p align="center">Made with ❤️ in Pakistan 🇵🇰</p>
 
 
 <p align="center">
