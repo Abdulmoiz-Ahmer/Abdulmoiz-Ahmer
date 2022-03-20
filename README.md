@@ -13,7 +13,7 @@
 
    ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little bit about me...  
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little bit about me...  
 ```
 class Abdulmoiz extends Person{
 
@@ -69,6 +69,8 @@ class Abdulmoiz extends Person{
 [![Website Badge](https://img.shields.io/badge/-abdulmoiz.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://dazzling-dijkstra-8e10ca.netlify.app/)](https://dazzling-dijkstra-8e10ca.netlify.app)
 [![Twitter Badge](https://img.shields.io/badge/-@abdulmoiz-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SinProgramming)](https://twitter.com/SinProgramming)
 [![Gmail Badge](https://img.shields.io/badge/abdulmoiz-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:abdulmoizahmer1996@gmail.com)](mailto:abdulmoizahmer1996@gmail.com)
+
+
 
 
 
