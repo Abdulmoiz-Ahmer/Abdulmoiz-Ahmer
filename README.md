@@ -2,7 +2,7 @@
 <div align="center">
   <img width="500" height="300" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" >  
    
-   <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Hi there, I'm <a href="https://dazzling-dijkstra-8e10ca.netlify.app">Abdulmoiz Ahmer</a><img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="30px"  /> 
+   <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hi there, I'm <a href="https://dazzling-dijkstra-8e10ca.netlify.app">Abdulmoiz Ahmer</a><img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="30px"  /> 
   </h1>
    
  <p><em>Software Engineer at <a href="https://www.ciklum.com/">ciklum.com</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
