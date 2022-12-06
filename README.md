@@ -11,8 +11,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web,blockchain%20and%20app%20developer;Experienced%20Software%20Developer;4+%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=580&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
-   ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
-
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little bit about me...  
 ```
 class Abdulmoiz extends Person{
