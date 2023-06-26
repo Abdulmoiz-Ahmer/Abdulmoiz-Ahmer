@@ -8,7 +8,7 @@
  <p><em>Software Engineer at <a href="https://www.ciklum.com/">ciklum.com</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>  
   
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web,blockchain%20and%20app%20developer;Experienced%20Software%20Developer;4+%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=580&height=45&color=f75c7e&vCenter=true&size=22">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web,blockchain%20and%20app%20developer;Experienced%20Software%20Developer;5+%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=580&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little bit about me...  
