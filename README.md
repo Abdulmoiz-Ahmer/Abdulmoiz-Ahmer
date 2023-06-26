@@ -69,7 +69,7 @@ class Abdulmoiz extends Person{
 
 ## 🔍 Where to find me
 
-[![StackOverFlow Badge](https://img.shields.io/badge/-Abdulmoiz%20Ahmer-lightgrey?style=flat&logo=stackoverflow&logoColor=white&link=https://www.linkedin.com/in/abdulmoiz-ahmer-821a19115/)](https://www.linkedin.com/in/abdulmoiz-ahmer-821a19115/)
+[![StackOverFlow Badge](https://img.shields.io/badge/-Abdulmoiz%20Ahmer-lightgrey?style=flat&logo=stackoverflow&logoColor=white&link=1,883/)](1,883/)
 [![Linkedin Badge](https://img.shields.io/badge/-Abdulmoiz%20Ahmer-blue?style=?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulmoiz-ahmer-821a19115/)](https://www.linkedin.com/in/abdulmoiz-ahmer-821a19115/)
 [![Website Badge](https://img.shields.io/badge/-abdulmoiz.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://dazzling-dijkstra-8e10ca.netlify.app/)](https://dazzling-dijkstra-8e10ca.netlify.app)
 [![Twitter Badge](https://img.shields.io/badge/-@abdulmoiz-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SinProgramming)](https://twitter.com/SinProgramming)
